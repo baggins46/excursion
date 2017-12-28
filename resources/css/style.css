@@ -3,7 +3,7 @@ html {
   background-color: black;
 }
 
-.header, .guide, .Comming_soon {
+.header, .guide, .comming_soon {
   text-align: center;
   video: autoplay;
 }
